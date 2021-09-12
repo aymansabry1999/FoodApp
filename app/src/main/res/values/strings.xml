@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="search">Search Your Recipes...</string>
+    <string name="MealCategories">Meal Categories</string>
+    <string name="category">category</string>
+    <string name="dot_loading">...</string>
+    <string name="country">country</string>
+    <string name="instructions">INSTRUCTION</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="youtube">YOUTUBE</string>
+    <string name="source">SOURCE</string>
+</resources>
